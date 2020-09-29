@@ -1,0 +1,18 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "postgres",
+    "database": "denotypeormexampledb",
+    "entities": [
+        "src/entities/**/*.ts"
+    ],
+    "migrations": [
+        "db/migrations/**/*.ts"
+    ],
+    "cli": {
+        "migrationsDir": "db/migrations"
+    },
+    "autoSchemaSync": true
+ }

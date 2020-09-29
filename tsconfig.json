@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "plugins": [
+            {
+                "name": "typescript-deno-plugin"
+            }
+        ],
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "strictPropertyInitialization": false
+    }
+}
