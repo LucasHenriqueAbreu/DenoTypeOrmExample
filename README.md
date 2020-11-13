@@ -30,3 +30,8 @@ Em produção
 - [ ] Login do usuário
 - [X] Sistema de migração de banco
 - [ ] Listagem de tarefas
+
+## Demonstração do projeto
+[![v](http://img.youtube.com/vi/sZfZ8uWaOFI/0.jpg)](http://www.youtube.com/watch?v=sZfZ8uWaOFI "Vídeo aleatório")
+
+
