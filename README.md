@@ -47,6 +47,14 @@ Antes de rodar este projeto você deve ter instalado em suma máquinoa os seguin
 ```bash
 # Clone este repositório
 $ git clone https://github.com/LucasHenriqueAbreu/DenoTypeOrmExample.git
+
+# Acesse a pasta do projeto 
+$ cd /pastadoprojeto
+
+# Rode os migrations
+$ npx typeorm-cli db:migrate
+
+
 ```
 
 
