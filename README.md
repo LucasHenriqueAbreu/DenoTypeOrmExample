@@ -35,3 +35,18 @@ Em produção
 [![v](http://img.youtube.com/vi/sZfZ8uWaOFI/0.jpg)](http://www.youtube.com/watch?v=sZfZ8uWaOFI "Vídeo aleatório")
 
 
+## Pré- requisitos 
+
+Antes de rodar este projeto você deve ter instalado em suma máquinoa os seguintes programas:
+
+* (Deno 1.3.0)[https://deno.land/]
+* (Typescript 3.9.7)[https://www.npmjs.com/package/typescript]
+
+## Rodando o projeto
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/LucasHenriqueAbreu/DenoTypeOrmExample.git
+```
+
+
