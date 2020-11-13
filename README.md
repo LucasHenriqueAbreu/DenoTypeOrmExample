@@ -12,3 +12,21 @@
 
 # Deno TypeOrm Example
 Projeot de exeplo de como usar o TypeORM no Deno com Aloussaur e outras coisas mais, também um exelplo de README.md para o curso de Engenharia de Software.
+
+## Badges
+![Cocoapods platforms](https://img.shields.io/cocoapods/p/testelucas?color=%23ffffff&label=Platforms&logoColor=%233333&style=plastic)
+![Badge](https://img.shields.io/badge/Lucas-Teste-%237159c1?style=plastic&logo=ghost)
+
+## Tabela de conteúdos 
+
+<!--ts-->
+* [Tabela de conteúdos](#tabela-de-conteudos)
+<!--te-->
+
+## Status 
+Em produção
+
+## Features 
+- [ ] Login do usuário
+- [X] Sistema de migração de banco
+- [ ] Listagem de tarefas
