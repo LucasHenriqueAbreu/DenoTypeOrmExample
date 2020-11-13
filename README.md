@@ -5,4 +5,10 @@
 </p>
 
 
-<h1 align="Center"> Deno TypeOrm Example</h1>
+<h1 align="center"> Deno TypeOrm Example</h1>
+<p align="center">
+  Projeot de exeplo de como usar o TypeORM no Deno com Aloussaur e outras coisas mais, também um exelplo de README.md para o curso de Engenharia de Software.
+</p>
+
+# Deno TypeOrm Example
+Projeot de exeplo de como usar o TypeORM no Deno com Aloussaur e outras coisas mais, também um exelplo de README.md para o curso de Engenharia de Software.
